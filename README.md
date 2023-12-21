@@ -1,6 +1,6 @@
 # Series 63 – Uniform Securities Agent State Law Exam 
 
-After passing the SIE and Series 7 Exam, representatives must also pass at least ONE of the following Securities Law Exams in order to be registered to conduct business in any State, and must be approved in their *home* state.
+After passing the SIE and Series 7 Exams, representatives must also pass at least ONE of the following Securities Law Exams in order to be registered to conduct business in any State, and must be approved in their *home* state.
 
 1. Series 63 – Uniform Securities Agent State Law Exam 
 2. Series 65 – Uniform Investment Adviser Law Exam
