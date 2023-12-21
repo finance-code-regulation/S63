@@ -10,7 +10,7 @@ After passing the SIE and Series 7 Exams, representatives must also pass at leas
 
 | Exam    | Questions | Allotted Exam Time | Required To Pass |
 | :-------- | :------- | -------: |-------: |
-| S63    | 60 Multiple-Choice Questions    | 1 hour and 15 minutes    | 72% |
+| **S63**   | **60 Multiple-Choice Questions**   | **1 hour and 15 minutes**    | **72%** |
 | S66    | 100 Multiple-Choice Questions   | 1 hour and 50 minutes    | 73% |
 | S65    | 130 Multiple-Choice Questions    | 3 hours   | 70% |
 
@@ -20,16 +20,17 @@ In order for a candidate to pass the Series 63 Exam, he/she must correctly answe
 </br>
 The Series 63 Exam focuses on state securities regulations, so understanding the nuances of state laws in addition to federal securities laws is crucial. This course uses a variety of study materials, practice exams, and review sessions to solidify your understanding of the material. </br></br>
 
-I. Regulations of Investment Advisers, Including StateRegistered and Federal Covered Advisers   5% 3
-II. Regulations of Investment Adviser Representatives 5% 3
-III. Regulations of Broker-Dealers 12% 7
-IV. Regulations of Agents of Broker-Dealers 13% 8
-V. Regulations of Securities and Issuers 9% 5
-VI. Remedies and Administrative Provisions 11% 7
-VII. Communication with Customers and Prospects 20% 12
-VIII. Ethical Practices and Obligations 25% 15
-
-
+| Section    | Description | Questions | Weight |
+| :-------- | :------- | -------: |-------: |
+| I. | Regulation of Investment Advisers  | 3 | 5% |
+| II. | Regulation of Investment Adviser Representatives  | 3 | 5% |
+| III. | Regulation of Broker-Dealers | 7 |  12% |
+| IV. | Regulation of Agents of Broker-Dealers | 8 | 13% |
+| V. | Regulation of Securities and Issuers  | 5 | 9% |
+| VI. |Remedies and Administrative Provisions | 7 | 11% |
+| VII. | Communication with Customers and Prospects | 12 |  20% |
+| VIII. |  Ethical Practices and Obligations | 15 | 25% |
+| **Total** |  | **60** | **100%** |
 
 Our program is designed to best position you to pass the Series 63 exam on the first attempt by using Q&A after each section and in aggregate as the course moves forward from one module to the next.</br>
   
