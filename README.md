@@ -15,16 +15,21 @@ After passing the SIE and Series 7 Exams, representatives must also pass at leas
 | S65    | 130 Multiple-Choice Questions    | 3 hours   | 70% |
 
 In order for a candidate to pass the Series 63 Exam, he/she must correctly answer at least 43 of the 60 scored questions. The Uniform Securities Agent Law Examination consists of 65 multiple-choice questions covering the topics listed in the study guide. Applicants are allowed 75 minutes to complete the examination. All FINRA examinations are conducted as a closed book tests and are very strictly proctored
-</br></br>
-The following waiting periods apply for individuals needing to retake the Series 63 following a failed attempt:</br>
-</br>
-(1) a minimum of 30 days after failing the first exam before the second taking of the exam can be scheduled;</br>
-(2) a minimum of 30 days after failing the exam for the second time before the third taking of the exam can be scheduled; and</br>
-(3) a minimum of 180 days after failing the exam for a third time before the fourth taking of the exam (and each subsequent taking) can be scheduled..</br>
 
 </br>
 </br>
 The Series 63 Exam focuses on state securities regulations, so understanding the nuances of state laws in addition to federal securities laws is crucial. This course uses a variety of study materials, practice exams, and review sessions to solidify your understanding of the material. </br></br>
+
+I. Regulations of Investment Advisers, Including StateRegistered and Federal Covered Advisers   5% 3
+II. Regulations of Investment Adviser Representatives 5% 3
+III. Regulations of Broker-Dealers 12% 7
+IV. Regulations of Agents of Broker-Dealers 13% 8
+V. Regulations of Securities and Issuers 9% 5
+VI. Remedies and Administrative Provisions 11% 7
+VII. Communication with Customers and Prospects 20% 12
+VIII. Ethical Practices and Obligations 25% 15
+
+
 
 Our program is designed to best position you to pass the Series 63 exam on the first attempt by using Q&A after each section and in aggregate as the course moves forward from one module to the next.</br>
   
@@ -76,6 +81,13 @@ Our program is designed to best position you to pass the Series 63 exam on the f
 **X. Examination Preparation Strategies**</br>
 &nbsp; A. &nbsp; &nbsp; Sample Questions and Practice Exams.</br>
 &nbsp; B. &nbsp; &nbsp; Test-Taking Strategies and Time Management.</br>
+
+</br></br>
+The following waiting periods apply for individuals needing to retake the Series 63 following a failed attempt:</br>
+</br>
+(1) a minimum of 30 days after failing the first exam before the second taking of the exam can be scheduled;</br>
+(2) a minimum of 30 days after failing the exam for the second time before the third taking of the exam can be scheduled; and</br>
+(3) a minimum of 180 days after failing the exam for a third time before the fourth taking of the exam (and each subsequent taking) can be scheduled..</br>
 
 
 
