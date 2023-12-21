@@ -24,7 +24,7 @@ The following waiting periods apply for individuals needing to retake the Series
 
 </br>
 </br>
-The Series 63 Exam focuses on state securities regulations, so understanding the nuances of state laws in addition to federal securities laws is crucial. This course uses a variety of study materials, practice exams, and review sessions to solidify your understanding of the material. </br>
+The Series 63 Exam focuses on state securities regulations, so understanding the nuances of state laws in addition to federal securities laws is crucial. This course uses a variety of study materials, practice exams, and review sessions to solidify your understanding of the material. </br></br>
 
 Our program is designed to best position you to pass the Series 63 exam on the first attempt by using Q&A after each section and in aggregate as the course moves forward from one module to the next.</br>
   
