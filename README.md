@@ -26,7 +26,7 @@ The following waiting periods apply for individuals needing to retake the Series
 </br>
 The Series 63 Exam focuses on state securities regulations, so understanding the nuances of state laws in addition to federal securities laws is crucial. This course uses a variety of study materials, practice exams, and review sessions to solidify your understanding of the material. </br>
 
-Our program is designed to best position you to pass the Series 63 exam on the first attempt.</br>
+Our program is designed to best position you to pass the Series 63 exam on the first attempt by using Q&A after each section and in aggregate as the course moves forward from one module to the next.</br>
   
 **I. Introduction to Series 63 Exam**</br>
 &nbsp; A. &nbsp; &nbsp; Scope of Series 63 Exam Sections.</br>
@@ -54,9 +54,9 @@ Our program is designed to best position you to pass the Series 63 exam on the f
 &nbsp; C. &nbsp; &nbsp; Uniform Forms and Filing Requirements.</br>
 
 **VI. Ethical Practices and Obligations**</br>
-&nbsp; A. Anti-Fraud Provisions.</br>
-&nbsp; B. Insider Trading and Manipulative Practices.</br>
-&nbsp; C. Ethical Guidelines for Agents and Investment Advisers.</br>
+&nbsp; A. &nbsp; &nbsp; Anti-Fraud Provisions.</br>
+&nbsp; B. &nbsp; &nbsp; Insider Trading and Manipulative Practices.</br>
+&nbsp; C. &nbsp; &nbsp; Ethical Guidelines for Agents and Investment Advisers.</br>
 
 **VII. State Securities Administrators**</br>
 &nbsp; A. &nbsp; &nbsp; Role and Responsibilities of State Securities Administrators.</br>
@@ -74,13 +74,8 @@ Our program is designed to best position you to pass the Series 63 exam on the f
 &nbsp; C. &nbsp; &nbsp; Client Communication and Suitability.</br>
 
 **X. Examination Preparation Strategies**</br>
-&nbsp; A. &nbsp; &nbsp; Study Materials and Resources.</br>
-&nbsp; B. &nbsp; &nbsp; Sample Questions and Practice Exams.</br>
-&nbsp; C. &nbsp; &nbsp; Test-Taking Strategies and Time Management.</br>
+&nbsp; A. &nbsp; &nbsp; Sample Questions and Practice Exams.</br>
+&nbsp; B. &nbsp; &nbsp; Test-Taking Strategies and Time Management.</br>
 
-**XI. Review and Practice**</br>
-&nbsp; A. &nbsp;  &nbsp; Summary of Key Concepts and Topics.</br>
-&nbsp; B. &nbsp; &nbsp; Quizzes and Review Question.</br>
-&nbsp; C. &nbsp; &nbsp; Self-Assessment.</br>
 
 
