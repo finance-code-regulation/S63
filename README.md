@@ -5,7 +5,7 @@ After passing the SIE and Series 7 Exams, representatives must also pass at leas
 1. Series 63 – Uniform Securities Agent State Law Exam </br>
 2. Series 65 – Uniform Investment Adviser Law Exam</br>
 3. Series 66 – Uniform Combined State Law Exam</br>
-** The Series 66 exam is the equivalent of taking both the Series 63 and Series 65 exams.</br>
+** The Series 66 exam is the equivalent of taking both the Series 63 and Series 65 exams.</br></br>
 
 
 | Exam    | Questions | Allotted Exam Time | Required To Pass |
@@ -25,3 +25,62 @@ The following waiting periods apply for individuals needing to retake the Series
 </br>
 </br>
 The Series 63 Exam focuses on state securities regulations, so understanding the nuances of state laws in addition to federal securities laws is crucial. This course uses a variety of study materials, practice exams, and review sessions to solidify your understanding of the material. </br>
+
+Our program is designed to best position you to pass the Series 63 exam on the first attempt.</br>
+  
+**I. Introduction to Series 63 Exam**</br>
+&nbsp; A. &nbsp; &nbsp; Scope of Series 63 Exam Sections.</br>
+&nbsp; B. &nbsp; &nbsp; State Securities Laws.</br>
+&nbsp; C. &nbsp; &nbsp; Federal Securities Laws.</br>
+
+**II. Securities Act of 1933 and 1934**</br>
+&nbsp; A. &nbsp; &nbsp; Overview of Federal Securities Laws.</br>
+&nbsp; B. &nbsp; &nbsp; Registration of Securities.</br>
+&nbsp; C. &nbsp; &nbsp; Exemptions from Registration.</br>
+
+**III. Uniform Securities Act**</br>
+&nbsp; A. &nbsp; &nbsp; Overview of State Securities Laws.</br>
+&nbsp; B. &nbsp; &nbsp; Registration of Securities and Broker-Dealers.</br>
+&nbsp; C. &nbsp; &nbsp; Exemptions and Exclusions.</br>
+
+**IV. Definitions and Terminology**</br>
+&nbsp; A. &nbsp; &nbsp; Key Definitions in Securities Regulation.</br>
+&nbsp; B. &nbsp; &nbsp; Types of Securities and Exempt Transactions.</br>
+&nbsp; C. &nbsp; &nbsp; Registration of Broker-Dealers, Agents, and Investment Advisers.</br>
+
+**V. Registration and Licensing Requirements**</br>
+&nbsp; A. &nbsp; &nbsp; Requirements for Broker-Dealers and Agents.</br>
+&nbsp; B. &nbsp; &nbsp; Investment Adviser Registration and Exemptions.</br>
+&nbsp; C. &nbsp; &nbsp; Uniform Forms and Filing Requirements.</br>
+
+**VI. Ethical Practices and Obligations**</br>
+&nbsp; A. Anti-Fraud Provisions.</br>
+&nbsp; B. Insider Trading and Manipulative Practices.</br>
+&nbsp; C. Ethical Guidelines for Agents and Investment Advisers.</br>
+
+**VII. State Securities Administrators**</br>
+&nbsp; A. &nbsp; &nbsp; Role and Responsibilities of State Securities Administrators.</br>
+&nbsp; B. &nbsp; &nbsp; Enforcement Actions and Disciplinary Measures.</br>
+&nbsp; C. &nbsp; &nbsp; Coordination with Federal Regulators (SEC and FINRA).</br>
+
+**VIII. Securities Registration Procedures**</br>
+&nbsp; A. &nbsp; &nbsp; Registration Requirements for Securities.</br>
+&nbsp; B. &nbsp; &nbsp; Examination of Registration Statements.</br>
+&nbsp; C. &nbsp; &nbsp; Effective Dates and Amendments.</br>
+
+**IX. Securities Sales and Business Practices**</br>
+&nbsp; A. &nbsp; &nbsp; Disclosure Requirements for Sales.</br>
+&nbsp; B. &nbsp; &nbsp; Unethical Business Practices and Penalties.</br>
+&nbsp; C. &nbsp; &nbsp; Client Communication and Suitability.</br>
+
+**X. Examination Preparation Strategies**</br>
+&nbsp; A. &nbsp; &nbsp; Study Materials and Resources.</br>
+&nbsp; B. &nbsp; &nbsp; Sample Questions and Practice Exams.</br>
+&nbsp; C. &nbsp; &nbsp; Test-Taking Strategies and Time Management.</br>
+
+**XI. Review and Practice**</br>
+&nbsp; A. &nbsp;  &nbsp; Summary of Key Concepts and Topics.</br>
+&nbsp; B. &nbsp; &nbsp; Quizzes and Review Question.</br>
+&nbsp; C. &nbsp; &nbsp; Self-Assessment.</br>
+
+
