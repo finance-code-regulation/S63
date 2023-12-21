@@ -14,7 +14,7 @@ After passing the SIE and Series 7 Exams, representatives must also pass at leas
 | S66    | 100 Multiple-Choice Questions   | 1 hour and 50 minutes    | 73% |
 | S65    | 130 Multiple-Choice Questions    | 3 hours   | 70% |
 
-The Uniform Securities Agent Law Examination consists of 65 multiple-choice questions covering the topics listed in the study guide. In order for a candidate to pass the Series 63 Exam, he/she must correctly answer at least 43 of the 60 scored questions. Applicants are allowed 75 minutes to complete the examination. All FINRA examinations are conducted as a closed book tests and are very strictly proctored
+In order for a candidate to pass the Series 63 Exam, he/she must correctly answer at least 43 of the 60 scored questions. The Uniform Securities Agent Law Examination consists of 65 multiple-choice questions covering the topics listed in the study guide. Applicants are allowed 75 minutes to complete the examination. All FINRA examinations are conducted as a closed book tests and are very strictly proctored
 </br></br>
 The following waiting periods apply for individuals needing to retake the Series 63 following a failed attempt:</br>
 </br>
